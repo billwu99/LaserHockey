@@ -5,5 +5,5 @@ Laser Hockey Swift IOS app
 <p>Laser Hockey game using Pan Gesture Recognizers to move players. Puck travels based on direction it was hit from and bounces off walls.</p>
 
 <h3>Game Images</h3>
-<img src="https://imgur.com/3oLOApJ"/>
-<img src="https://imgur.com/q6wbV39"/>
+<img src="https://i.imgur.com/JIgRkFX.png"/>
+<img src="https://i.imgur.com/Hm5iR58.png"/>
