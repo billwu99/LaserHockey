@@ -6,4 +6,4 @@ Laser Hockey Swift IOS app
 
 <h3>Game Images</h3>
 <img src="https://i.imgur.com/JIgRkFX.png"/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="Hm5iR58"><a href="//imgur.com/Hm5iR58"></a></blockquote>
+<img src="https://i.imgur.com/Hm5iR58.png"/>
